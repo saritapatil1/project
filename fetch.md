@@ -1,1 +1,2 @@
-testing fetch
+testing diff command
+adding changes to fetch
